@@ -1,4 +1,4 @@
-- Hi, I’m ansh bhakuni ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- Hi, I’m ansh bhakuni ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 - I’m interested in programming
 - I’m currently learning html 5
 I know 5 programming language
@@ -11,6 +11,8 @@ I know 5 programming language
 I use 2 IDEs
 1. ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 2. ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+![ansh bhakuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansh&show_icons=true&theme=dark)
 
 
 
