@@ -1,6 +1,9 @@
 - Hi, I’m ansh bhakuni ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
+
+![Jokes Card](https://readme-jokes.vercel.app/api/?theme=radical)
+---
 - I’m interested in programming
-- I’m currently learning html 5
+- I’m currently learning django
 I know 6 programming language
 1. ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 2. ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
