@@ -2,9 +2,9 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api/?theme=radical)
 ---
-- I’m interested in programming
-- I’m currently learning JS
-I know 7 programming language
+- Moderate level developer
+- Currently working on SQL
+Languages i know:
 1. ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 2. ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 3. ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
